@@ -131,7 +131,13 @@ export default function Header() {
 
           <div className="pt-4 border-t border-gray-100 md:hidden grid grid-cols-2 gap-3 text-center">
             <LinkButton href="#" bg="#571244">
-              Account
+              <div className="flex items-center gap-2">
+                <span className="rounded-full bg-[#DDD0DA] p-1 grid place-items-center">
+                  <HiOutlineUser className=" text-[#571244]" />
+                </span>
+                <span>Account</span>
+                <HiChevronDown />
+              </div>
             </LinkButton>
             <LinkButton href="#" bg="#EF4353">
               Take Assessment
