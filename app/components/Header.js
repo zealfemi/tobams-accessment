@@ -91,7 +91,7 @@ export default function Header() {
       </nav>
 
       {mobileMenuOpen && (
-        <div className="md:hidden bg-white border-t border-gray-100 px-4 pt-3 pb-6 space-y-2 shadow-xl">
+        <div className="md:hidden bg-white border-t border-gray-100 px-4 pt-3 pb-6 space-y-2 shadow-xl absolute w-full">
           <div>
             <button className="w-full flex items-center justify-between py-2.5">
               <span>About</span>
