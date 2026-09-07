@@ -1,6 +1,12 @@
+## About Project
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+Stack Used: Next.js and Tailwind CSS
+
 Live URL: [here](https://tobams-accessment-xi.vercel.app)
+
+Figma design: [here](https://www.figma.com/design/wuqCLkK1feTgB6xxSRRwZu/Frontend-Intern-Assessment?node-id=0-1&p=f&t=qxnAKp4Ael8QtLYz-0)
 
 ## Getting Started
 
